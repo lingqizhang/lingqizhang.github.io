@@ -24,10 +24,10 @@ author:
   avatar           : "lingqi_profile.jpeg"
   name             : "Lingqi Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "RIKEN-RCCS Post Doc Tokyo Tech Ph.D. Interested in parallel programming and GPU programming. Currently working on code generation and machine learning topic"
+  bio              : "RIKEN-RCCS Post Doc, Tokyo Tech Ph.D"
   location         : "Tokyo"
   employer         : "RIKEN-RCCS"
-  uri              : "https://www.r-ccs.riken.jp/en/"
+  uri              : #"https://www.r-ccs.riken.jp/en/"
   email            : "lingqi.zhang@riken.jp" 
 
   # Academic websites
