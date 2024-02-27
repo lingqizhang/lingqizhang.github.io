@@ -2,7 +2,7 @@
 title: "Matrix Engines for High Performance Computing: A Paragon of Performance or Grasping at Straws?"
 collection: conference
 permalink: /publication/2021-05-17-matrixengine
-# excerpt: 'This paper is about fixing template issue #693.'
+excerpt: #'This paper is about fixing template issue #693.'
 date: 2021-05-17~21
 venue: '2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9460517'

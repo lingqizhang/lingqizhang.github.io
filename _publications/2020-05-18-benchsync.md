@@ -2,7 +2,7 @@
 title: "A Study of Single and Multi-device Synchronization Methods in Nvidia GPUs"
 collection: conference
 permalink: /publication/2022-5-18-benchsync
-# excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: #'This paper is about the number 3. The number 4 is left for future work.'
 date: 2020-5-18~22
 venue: '2020 IEEE International Parallel and Distributed Processing Symposium (IPDPS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9139854'
