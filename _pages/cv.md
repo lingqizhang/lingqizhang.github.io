@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /about/
+  - /about.html
 ---
 
 {% include base_path %}
@@ -20,14 +22,12 @@ Work experience
 * Spring 2024: RIKEN Center for Computational Science
   * Postdoc Researcher
 
-<!-- Skills
+Honors and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* ACM Complementary Student Member, 2023
+* Excellent Student Presentation, 187 HPC workshop, 2022.12
+* MEXT, 2018.9-2022.3
+* National Scholarship, 2014 – 2015 
 
 Publications
 ======
@@ -35,11 +35,23 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
+Posters
+======
+  <ul>{% for post in site.posters reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Workshops
+======
+  <ul>{% for post in site.workshops reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 <!-- Teaching
 ======
