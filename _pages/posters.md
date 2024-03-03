@@ -2,7 +2,7 @@
 layout: archive
 title: "Posters"
 permalink: /posters/
-author_profile: true
+author_profile: false
 ---
 
 <!-- {% if site.author.googlescholar %}

@@ -2,7 +2,7 @@
 layout: archive
 title: "Workshops"
 permalink: /workshops/
-author_profile: true
+author_profile: false
 ---
 
 <!-- {% if site.author.googlescholar %}

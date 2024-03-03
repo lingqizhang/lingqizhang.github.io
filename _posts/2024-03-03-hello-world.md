@@ -4,6 +4,7 @@ date: 2024-03-03
 permalink: /posts/2024/03/hello-world/
 tags:
   - Hello World
+author_profile: false
 ---
 
 <!-- This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. -->
