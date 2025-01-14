@@ -5,8 +5,8 @@ permalink: /posters/2024-9-24-benchmarking
 excerpt: 
 date: 2024-9-24
 venue: 'IEEE International Conference on Cluster Computing'
-paperurl: 'http://lingqizhang.github.io/files/Poster_Cluster25_Poster.pdf'
-citation: 'Zhang Lingqi, Ryan Barton, Peng Chen, Xiao Wang, Toshio Endo, Satoshi Matsuoka, and Mohamed Wahib, "nvestigating Nvidia GPU Architecture Trends via Microbenchmarks." In 2024 IEEE International Conference on Cluster Computing Workshops (CLUSTER Workshops), pp. 174-175. IEEE, 2024
+paperurl: 'http://lingqizhang.github.io/files/Poster_CLUSTER24_Poster_Benchmark.pdf'
+citation: 'Zhang Lingqi, Ryan Barton, Peng Chen, Xiao Wang, Toshio Endo, Satoshi Matsuoka, and Mohamed Wahib, "Investigating Nvidia GPU Architecture Trends via Microbenchmarks." In 2024 IEEE International Conference on Cluster Computing Workshops (CLUSTER Workshops), pp. 174-175. IEEE, 2024
 Kobe, Japan.'
 author_profile: false
 ---
