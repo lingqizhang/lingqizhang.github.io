@@ -6,6 +6,7 @@ excerpt:
 date: 2023-11-12~17
 venue: 'SC 23: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis'
 paperurl: 'http://lingqizhang.github.io/files/Poster_SC23_Poster_DoctorShowCase.pdf'
+citation: 'Lingqi Zhang, Mohamed Wahib, Toshio Endo and Satoshi Matsuoka, "Overcoming the Gap Between Compute and Memory Bandwidth in Modern GPUs," In The International Conference for High Performance Computing, Networking, Storage and Analysis (SC ’23), November 12–17, 2023,
 Denver, CO, USA.'
 author_profile: false
 ---
